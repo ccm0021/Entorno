@@ -1,14 +1,25 @@
 # Entorno
 
-System.out.println("dccfedvfer");
+package prCalculadora;
 
-# esto es una prueba
-public static main (String []arg){
-    int num = 1 ; 
-    int num2 = 2;
 
-    num += num2;
-    // almoadilla es para titulo 
+public class Calculadora {
+
     
+    public static void main(String[] args) {
+        duoble a, b;
 
+        //sentencia switch
+            //1 sumar
+            //2 restar
+            //3 multiplicacion
+
+            ahora te lo borro to wajajajajaja 
+            na es broma 
+            pero que sepas 
+            que te veo !
+            como en Avatar
+
+    }
+    
 }
